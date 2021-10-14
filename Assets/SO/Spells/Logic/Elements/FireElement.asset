@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fbafe8d76974534c9a4d8b70dd2eaf5, type: 3}
+  m_Name: FireElement
+  m_EditorClassIdentifier: 
+  spellElementColor: {r: 0, g: 0, b: 0, a: 0}
+  spellElementType: 0
+  spellDebuffTypes: 0000000001000000
+  spellElementVisuals: {fileID: 11400000, guid: 3ddf2370c265a7449a4fdd5165c2e2fa, type: 2}

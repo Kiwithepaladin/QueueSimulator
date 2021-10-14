@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56081f9e9be99564e87d84b241187e75, type: 3}
+  m_Name: FlameStrike
+  m_EditorClassIdentifier: 
+  spellName: Flamestrike
+  spellCooldown:
+    spellReady: 1
+    spellCooldownMax: 100
+    spellCooldownMin: 0.1
+    spellBaseCooldown: 5
+    spellCooldown: 3.3333335
+  spellElement: {fileID: 11400000, guid: 96d6d0f67547c214e9ce81ae13bcaec8, type: 2}
+  spellManaCost: 0
+  spellVisuals: {fileID: 11400000, guid: ebe0de4b9b8d3e543ad353ad94e88a8e, type: 2}
+  spellProfile: {fileID: 11400000, guid: b99b00896b2cbcf4f826bbca2feca6e2, type: 2}
+  hasteMax: 10
+  hasteMultiplier: 50
+  hastePrecentage: 500
